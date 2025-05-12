@@ -68,9 +68,6 @@ Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek
 - Çevrimiçi test sisteminin kapsamı genişletilebilir.
 - Forum ve tartışma alanı için backend entegrasyonu sağlanabilir.
 
-## Lisans
-
-MIT
 
 ---
 
